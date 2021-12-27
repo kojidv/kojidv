@@ -1,5 +1,4 @@
-### hey, i'm jayke (aka kari).
-### i'm a young self-taught developer interested in computer science.
+### hey, i'm jayke (aka kari), a young self-taught developer interested in computer science.
 
 
 #### currently learning javascript
