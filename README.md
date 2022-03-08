@@ -1,1 +1,1 @@
-![Kōji](githubbg.gif)
+![Kōji](kojidv.gif)
