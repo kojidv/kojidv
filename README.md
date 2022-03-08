@@ -1,1 +1,1 @@
-![alt text](https://i.imgur.com/t7yqmUE.gif)
+![Kōji](https://i.imgur.com/t7yqmUE.gifv)
