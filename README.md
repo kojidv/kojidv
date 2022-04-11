@@ -23,7 +23,7 @@
 
 ## Socials:
 
-<img align="left" alt="Twitter" width="36px" src="https://img.icons8.com/officel/60/twitter-circled.png" style="padding-right:10px;" href="https://twitter.com/kkojix" />
+<img align="left" alt="Twitter" width="36px" src="https://img.icons8.com/officel/160/twitter-circled.png" style="padding-right:10px;" href="https://twitter.com/kkojix" />
 
 <br />
 <br />
