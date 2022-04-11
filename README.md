@@ -1,10 +1,10 @@
 # Hello, I'm Jayke; Also known as Kōji.
 
 
-## 15 year old aspiring software developer.
+### 15 year old aspiring software developer.
 ### Currently studying HTML, CSS & JS
 
-## 2022 Goals:
+### 2022 Goals:
 - Be more active on GitHub with contributions
 - learn enough about web development to earn some money
 - 
