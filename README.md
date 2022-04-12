@@ -28,5 +28,3 @@
 - 
 <br />
 <br />
-
-text-align: center;
