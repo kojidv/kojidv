@@ -1,3 +1,4 @@
+<div style="align: center;">
 # Hello, I'm Jayke; Also known as Kōji.
 ### 15 year old aspiring software developer.
 
@@ -28,3 +29,4 @@
 - 
 <br />
 <br />
+</div>
