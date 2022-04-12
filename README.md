@@ -1,4 +1,4 @@
-# Hello, I'm Jayke; Also known as Kōji.
+# Hello, I'm Jayke; Also known as Kōji. {style=text-align:center}
 ### 15 year old aspiring software developer.
 
 
@@ -28,4 +28,3 @@
 - 
 <br />
 <br />
-</p>
