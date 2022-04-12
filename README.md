@@ -6,6 +6,8 @@
 
 [![stats](https://github-readme-stats.vercel.app/api?username=kojidv&show_icons=true&theme=radical)]()
 
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kojidv)]()
+
 ### 2022 Goals:
 - Be more active on GitHub with contributions
 - Learn the basics of JavaScript and then some
