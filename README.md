@@ -4,7 +4,7 @@
 ### 15 year old aspiring software developer.
 ### Currently learning JavaScript
 
-[![stats](https://github-readme-stats.vercel.app/api?username=kojidv)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=kojidv&show_icons=true&theme=radical)]
 
 ### 2022 Goals:
 - Be more active on GitHub with contributions
@@ -29,5 +29,3 @@
 
 <br />
 <br />
-
-[twitter]: https://twitter.com/kkojix
