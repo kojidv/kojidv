@@ -1,5 +1,5 @@
-<p style="text-align: center;">Hello, I'm Jayke; Also known as Kōji.</p>
-<p style="text-align: center;">15 year old aspiring software developer.</p>
+# Hello, I'm Jayke; Also known as Kōji.
+## 15 year old aspiring software developer.
 
 
 [![stats](https://github-readme-stats.vercel.app/api?username=kojidv&show_icons=true&theme=radical)]()
