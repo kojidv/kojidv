@@ -2,6 +2,7 @@
 # software developer
 
 [![stats](https://github-readme-stats.vercel.app/api?username=kojidv&show_icons=true&theme=radical)]()
+
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kojidv)]()
 
 ### other tools:
