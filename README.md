@@ -1,4 +1,4 @@
-# *Jayke, aka Kōji ~-~ Front-end Developer*
+# *Jayke, aka Jay ~-~ Front-end Developer*
 
 [![stats](https://github-readme-stats.vercel.app/api?username=kojidv&show_icons=true&theme=radical)]()
 
